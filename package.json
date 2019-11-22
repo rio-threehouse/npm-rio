@@ -1,0 +1,13 @@
+{
+  "name": "@rio-threehouse/npm-rio",
+  "version": "1.0.0",
+  "description": "npm package example",
+  "main": "index.js",
+  "bin": "bin/rio",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rio-threehouse/npm-rio.git"
+  },
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+console.log('@rio-threehouse');
+console.log('https://github.com/rio-threehouse')
